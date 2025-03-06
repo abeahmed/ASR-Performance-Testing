@@ -1,3 +1,6 @@
-Analyzing the effect of different types of noise on the performance of ASR systems
+## 🗣️ Computational Speech Processing Project  
 
-Google drive link containing Jupyter Notebook and Audio Files: https://drive.google.com/drive/folders/1Lw4qd6mQUeC3gQUeXGtjeE6TbdXwo_6D?usp=drive_link
+This project analyzes the effect of different types of noise on the performance of **Automatic Speech Recognition (ASR) systems**, using **Python** and the **Google Speech-to-Text AI**.  
+
+🔗 **Project Files:**  
+[Jupyter Notebook & Audio Files](https://drive.google.com/drive/folders/1Lw4qd6mQUeC3gQUeXGtjeE6TbdXwo_6D?usp=drive_link) (Google Drive)  
